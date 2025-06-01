@@ -18,3 +18,7 @@ Paper beats Rock
 User vs. Computer gameplay
 Random computer choices
 Displays the result of each round (Win/Lose/Draw)
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ef9acfbe-34f7-4a09-857c-6f1c93509a9b)
