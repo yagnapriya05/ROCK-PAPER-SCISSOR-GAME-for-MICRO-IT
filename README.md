@@ -22,3 +22,4 @@ Displays the result of each round (Win/Lose/Draw)
 OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/ef9acfbe-34f7-4a09-857c-6f1c93509a9b)
+![Image](https://github.com/user-attachments/assets/f758c161-674d-45c2-b115-d2f3f7ec0776)
